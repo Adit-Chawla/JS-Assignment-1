@@ -143,3 +143,6 @@ buttonplayback.addEventListener('click', playback_on_click);
 buttonrandom.addEventListener('click', random_on_click);
 buttonresetStory.addEventListener('click', reset_on_click);
 document.addEventListener('DOMContentLoaded', displayStudentId);
+
+
+/* -------------------------------------------------------------------END OF CODE------------------------------------------------------------- */
